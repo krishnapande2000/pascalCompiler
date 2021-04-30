@@ -9,7 +9,8 @@ The Makefile is used here to compile the codes with multiple instructions and cr
 a target executable fie called main which will be out driver program. It will take input.txt as an input
 and produce compilation results.
 
-TO COMPILE open the terminal in the folder containing all the files and enter :
+TO COMPILE \
+open the terminal in the folder containing all the files and enter :\
 make clean\
 make\
 ./main
