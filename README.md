@@ -10,7 +10,7 @@ a target executable fie called main which will be out driver program. It will ta
 and produce compilation results.
 
 TO COMPILE open the terminal in the folder containing all the files and enter :
-make clean
-make
+make clean\
+make\
 ./main
 
